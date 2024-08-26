@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Mapping and Geospatial Data Analysis (pymap)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Varona
+    given-names: Humberto L.
+    email: humberto.varona@gmail.com
+    affiliation: >-
+      Center for Risk Analysis and Environmental Modeling (CEERMA),
+      Federal University of Pernambuco. Recife, PE, Brazil.
+    orcid: 'https://orcid.org/0000-0001-7405-4827'
+  - family-names: Herold-Garcia
+    given-names: Silena
+    email: silena.herold@gmail.com
+    affiliation: >-
+      Center for Risk Analysis and Environmental Modeling (CEERMA),
+      Federal University of Pernambuco. Recife, PE, Brazil.
+    orcid: 'https://orcid.org/0000-0001-9238-3472'
+repository-code: 'https://doi.org/10.5281/zenodo.13372558'
+abstract: >-
+  This Dockerfile is designed to create a Docker image that provides a
+  comprehensive environment for generating maps, particularly focusing on
+  NetCDF data. The image includes all necessary dependencies and tools to
+  process and visualize geospatial data, including support for various data
+  formats like NetCDF, shapefiles, and others. The environment is also equipped
+  with tools to generate, manipulate, and visualize data using Python libraries
+  such as Cartopy, Matplotlib, and GDAL.
+keywords:
+  - Mapping and Geospatial tools
+license: MIT
+version: '1.0'
+date-released: '2024-08-04'
