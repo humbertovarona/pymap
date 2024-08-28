@@ -1086,4 +1086,12 @@ ds.close()
 
 This project is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
 
+### IMPORTANT NOTE
+
+This Docker was developed by specialists at the Centro de **Estudos e Ensaios em Risco e Modelagem Ambiental (CEERMA)** as part of the project identified under **Process No.: APQ-0235-1.08/23**, funded by **FACEPE/APAC**. This Docker was designed to support the **Núcleo de Oceanografia Operacional do Estado de Pernambuco (NOPE) project**.
+
+It is available for free use by any individual or institution in scientific research, such as scientific articles, technical reports, books, and other scientific documents. It is important to note that proper citation of this Docker is required in the references of any scientific research in which it is used. Additionally, acknowledgments in such scientific articles, technical reports, books, and other scientific documents must explicitly include an acknowledgment to **CEERMA** as an institution.
+
+For any commercial use of this Docker, it is necessary to contact the coordinator and/or vice-coordinator of the **NOPE** project and **CEERMA** beforehand to establish the corresponding terms and conditions of use.
+
 ---
